@@ -19,6 +19,9 @@ See the [Arduboy Quick Start Guide](https://community.arduboy.com/t/quick-start-
 - **B Button** - Jump. Hold down to jump over logs. Make sure logs are cleared before releasing.
 - **Up Button** - Pause menu.
 
+Pressing **B** in the Title Screen will toggle sound on/off.
+To upload a new game, hold **Up** while powering on your Arduboy to enter flashlight mode.
+
 ### Gameplay
 
 Avoid obstacles by using **Left** and **Right** to ski to the left and right. Hold down **A** to make sharp turns. Jump over logs by holding down **B**. Multiple logs can be cleared in a single jump by holding down **B** for the appropriate duration. If you release **B** too early you won't fully clear the log(s). Levels are randomly generated for a unique experience each time.
