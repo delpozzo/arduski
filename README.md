@@ -8,7 +8,7 @@ A skiing game for [Arduboy](https://arduboy.com/) ported from [Skibuino](https:/
 
 ## Installation
 
-Copy `SKIBUINO.HEX` and `SKIBUINO.INF` from the `bin/` folder to your SD card.
+See the [Arduboy Quick Start Guide](https://community.arduboy.com/t/quick-start-guide/2790) for help with uploading games to your Arduboy. Source code is located in the `src/` folder and pre-built binaries are located in the `bin/` folder.
 
 ## Instructions
 
